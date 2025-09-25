@@ -1,0 +1,11 @@
+SPARQLWrapper
+openai
+torch
+sentence-transformers
+scikit-learn
+numpy
+tqdm
+transformers
+fuzzywuzzy
+scipy
+requests
