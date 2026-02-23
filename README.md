@@ -1,4 +1,9 @@
-# VoG
+# VoG: Enhancing LLM Reasoning through Stepwise Verification on Knowledge Graphs
+
+This is the official implementation of [VoG: Enhancing LLM Reasoning through Stepwise Verification on Knowledge Graphs (ICLR 2026)](https://openreview.net/pdf?id=0RdAmwfVku).
+
+
+
 ## Freebase Setup and Datasets
 
 Before running our code, you must install and configure **Freebase** on your local machine. This guide walks through downloading and setting up Virtuoso, then importing the Freebase knowledge graph.
